@@ -1,4 +1,4 @@
-            <form class="currency-form" action="demo_process.php" method="post">
+            <form class="form" action="demo_process.php" method="post">
               <h4>Request a demo</h4>
               <div class="form-field">
                 <label>Name</label>
